@@ -1,0 +1,12 @@
+# Generated / large data (reproduce via src/augment_dataset.py)
+iris_augmented.csv
+*.pyc
+__pycache__/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/

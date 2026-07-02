@@ -1,0 +1,2 @@
+Single Machine: 0.34s
+Inertia: 78851.44
